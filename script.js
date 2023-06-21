@@ -4,3 +4,9 @@
 // ⦁ Do metody dzielenia również dołóż sprawdzenie czy liczba b nie jest 0.
 // ⦁ Przyjmij przez prompt dwie liczby. Stwórz nowy obiekt na bazie klasy i przekaż jej liczby użytkownika. Wykonaj wszystkie działania i wyświetl je w konsoli.
 //     Użyć try...catch, aby złapać we. Błędy i wyświetlić użytkownikowi.
+
+
+class calc {
+    constructor(a, b) {
+    }
+}
