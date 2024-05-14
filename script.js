@@ -37,7 +37,7 @@ class Calc {
 try {
 	const valA = Number(prompt('Podaj liczbę A'));
 	const valB = Number(prompt('Podaj liczbę B'));
-	const calc = new Calc(valA, valB);
+	const calc = new Calc(valA, );
     console.log(calc.add());
     console.log(calc.divide());
 } catch (error) {
